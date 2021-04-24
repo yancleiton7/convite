@@ -383,7 +383,7 @@ input{
 }
 
 .spoilers .data {
-    color: yellow;
+    color: red;
 }
 .spoilers .lista:hover {
     background-color: rgba(106, 156, 248, 0.542);
