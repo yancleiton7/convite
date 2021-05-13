@@ -1,4 +1,5 @@
 
+
 var nome = ''
 function capturar(nome, intro, convite,  some, aparece){
 
